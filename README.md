@@ -5,7 +5,7 @@
 
 The **Dynamics Partner Advisor** MCP Server connects your AI agents (Claude Desktop, Cursor, Windsurf, etc.) to the most comprehensive database of Microsoft Dynamics 365 implementation partners.
 
-**🔗 Official Website:** [https://topdynamicspartners.com/tools/mcp-server](https://topdynamicspartners.com/tools/mcp-server)
+**🔗 Official Website:** [https://topdynamicspartners.com/resources/mcp-server](https://topdynamicspartners.com/resources/mcp-server)
 *
 
 ## 🚀 Features
